@@ -24,9 +24,9 @@ dependencies[] = field_ui
 dependencies[] = file
 dependencies[] = rdf
 dependencies[] = ctools
+dependencies[] = views
 dependencies[] = features
 dependencies[] = libraries
-dependencies[] = views
 dependencies[] = examples
 dependencies[] = wysiwyg
 ; custom module
